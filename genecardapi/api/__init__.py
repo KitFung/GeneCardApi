@@ -1,3 +1,3 @@
-from .ensembl2geneid import ensembl2geneid_api
+from .idmapping import idmapping_api
 
-all_api = [ensembl2geneid_api]
+all_api = [idmapping_api]

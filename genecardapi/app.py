@@ -1,5 +1,4 @@
 from flask import Flask, jsonify
-from flask_pymongo import PyMongo
 from config import DefaultConfig
 
 
